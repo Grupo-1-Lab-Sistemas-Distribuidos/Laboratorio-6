@@ -1,0 +1,3 @@
+com\mycompany\comprasproductos\resources\JakartaEE10Resource.class
+com\mycompany\comprasproductos\JakartaRestConfiguration.class
+com\mycompany\comprasproductos\ProcesarCompraServlet.class
